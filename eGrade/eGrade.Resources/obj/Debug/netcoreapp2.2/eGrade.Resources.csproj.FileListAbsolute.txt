@@ -1,0 +1,15 @@
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\bin\Debug\netcoreapp2.2\eGrade.Resources.deps.json
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\bin\Debug\netcoreapp2.2\eGrade.Resources.dll
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\bin\Debug\netcoreapp2.2\eGrade.Resources.pdb
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\bin\Debug\netcoreapp2.2\ro\eGrade.Resources.resources.dll
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\eGrade.Resources.Resources.Resources.ro.resources
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\eGrade.Resources.csproj.GenerateResource.cache
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\eGrade.Resources.csproj.CoreCompileInputs.cache
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\eGrade.Resources.AssemblyInfoInputs.cache
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\eGrade.Resources.AssemblyInfo.cs
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\ro\eGrade.Resources.resources.dll
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\eGrade.Resources.dll
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\eGrade.Resources.pdb
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\bin\Debug\netcoreapp2.2\en\eGrade.Resources.resources.dll
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\eGrade.Resources.Resources.Resources.en.resources
+C:\Users\cgrieros\Documents\Visual Studio 2017\Projects\eGrade\eGrade.Resources\obj\Debug\netcoreapp2.2\en\eGrade.Resources.resources.dll
